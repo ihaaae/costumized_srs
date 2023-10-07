@@ -1,0 +1,9 @@
+*.ipynb
+*.svg
+.ipynb_checkpoints
+# ECAPA-TDNN/
+SincNet/
+X-Vector/
+mini-LibriSpeech/*.json
+mini_LibriSpeech/results/
+mini_LibriSpeech/__pycache__/
